@@ -1,0 +1,24 @@
+MOV 9 r12
+MOV r12 z
+MOV 6 r12
+MOV r12 y
+MOV 5 r12
+MOV r12 x
+MOV 11 r12
+MOV r12 y
+MOV a r12
+ADD r12 b t0
+MOV r0 p
+MOV 5 r12
+MUL r12 44 t1
+MOV r1 y
+MOV r0 r2
+MOV r2 q
+MOV y r12
+ADD r12 x t3
+MOV r3 y
+MOV y r12
+MOV r12 a
+MOV a r12
+ADD r12 b t4
+MOV r4 c
